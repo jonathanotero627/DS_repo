@@ -2,4 +2,4 @@
 
 ##
 
-It's a markdown file living in this repository.
+Public Repo used to store personal learning content.
